@@ -28,5 +28,5 @@ Akira Store es una aplicación de escritorio (Windows Forms) desarrollada con fi
 
 ## 🚀 Cómo usar / Instalar
 
-1. Descarga el archivo rar que he adjuntado
+1. Descarga el archivo rar mediante este enlace https://drive.google.com/file/d/1FToG-mJIJOK-LIqRoTfMMeS4gksjaMkQ/view?usp=sharing
 2. En una misma carpeta pon las imagenes de las portadas y cambia en la codificacion de C# su directorio 
